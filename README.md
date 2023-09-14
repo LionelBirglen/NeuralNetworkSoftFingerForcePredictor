@@ -2,13 +2,13 @@
 
 Matlab functions of three neural networks. Each of these networks predicts the grasp forces produced by one of three designs of soft robotic fingers. The networks were trained using FEA data and they produce results consistent with experimental data.
 
-Soft fingers:
+## Soft fingers:
 ![Soft Fingers](SoftFingerDesigns.png?raw=true "Title")
 
-Neural network topology:
+## Neural network topology:
 ![Neural predictor](NeuralNetArchitecture.png?raw=true "Title")
 
-Experimental validations:
+## Experimental validations:
 ![Experiments](SoftFingerGrasps.png?raw=true "Title")
 
 See the paper:
